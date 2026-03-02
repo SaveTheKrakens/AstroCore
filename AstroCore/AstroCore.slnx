@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AstroCore/AstroCore.csproj" />
+  <Project Path="MonoGameLibrary/MonoGameLibrary.csproj" Id="a8bcf8ff-8276-4883-8f1f-5d9062767be2" />
+</Solution>
