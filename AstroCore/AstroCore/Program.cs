@@ -1,2 +1,2 @@
-﻿using var game = new AstroCore.Game1();
+﻿using var game = new AstroCore.Scripts.GameManager();
 game.Run();
